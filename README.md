@@ -234,7 +234,7 @@ https://trello.com/b/Bx7wiGFC/winifred-sevgi
 
 **Presentation Slides:**
 
-https://docs.google.com/presentation/d/1zezE-2GEEpBFHoSCLyrewtu6iUBaoYea3pJn2T3Ktz0/edit?usp=sharing
+https://docs.google.com/presentation/d/1MTfMAgBM3lrIVIBSZhMcR4cnA_AQtfl_KT99VeSZNgk/edit?slide=id.p1#slide=id.p1
 
 ## 📜 License
 
